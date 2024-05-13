@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Anicca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anicca37&show_icons=true&title_color=7737c7&text_color=ffebf7&icon_color=65a88d&bg_color=DEG,ffadd7,ff5c77&border_radius=9)]()
+
+
 
 <!--
 **Anicca37/Anicca37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
