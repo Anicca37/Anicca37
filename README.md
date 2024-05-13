@@ -1,4 +1,4 @@
-[![Anicca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anicca37&show_icons=true&title_color=7737c7&text_color=ffebf7&icon_color=65a88d&bg_color=DEG,ffadd7,ff5c77&border_radius=9)]()
+[![Anicca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anicca37&show_icons=true&title_color=7737c7&text_color=ffebf7&icon_color=65a88d&bg_color=DEG,ffadd7,ff5c77&border_radius=9)](https://github.com/Anicca37)
 
 
 
